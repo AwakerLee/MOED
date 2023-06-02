@@ -1,5 +1,5 @@
 # CAGAN
-CLIP-based Adaptive Graph Attention Network for unsupervised cross-modal hashing retrieval.
+Hierarchical Knowledge Distillation Hashing via Adaptive Multi-Teacher Selection for Unsupervised Cross-Modal Retrieval
 
 More details will be updated soon.
 
