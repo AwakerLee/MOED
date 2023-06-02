@@ -1,0 +1,29 @@
+{
+   "beta" : 0.5,
+    "gamma"  : 0.2,
+    "delta"  : 0.3,
+
+    "mu" : 1.4,
+
+    "epsilon" : 1,
+    "tau" : 0.1,
+    "eta" : 1,
+    "phi" : 1,
+    "lamb" : 0.1,
+    "LR_IMG" : 0.01,
+    "LR_TXT" : 0.01,
+    "IMG_DIR" : "E:/dataset/coco_data/COCO.mat",
+    "TXT_DIR" : "E:/dataset/coco_data/COCO_BoW.npy",
+    "HASH_BIT" : 128,
+    "BATCH_SIZE" : 32,
+    "MOMENTUM" : 0.9,
+    "WEIGHT_DECAY" : 5e-4,
+    "GPU_ID" : 0,
+    "NUM_WORKERS" : 0,
+    "EPOCH_INTERVAL" : 2,
+    "NUM_EPOCH" : 10,
+    "topk" : 5000,
+    "EVAL_INTERVAL" : 1,
+    "MODEL_DIR" : "./checkpoints",
+    "CHECKPOINT" : "mscoco_128bit.pth"
+}
