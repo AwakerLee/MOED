@@ -1,5 +1,5 @@
-# AMTS
-Adaptive Multi-Teacher Selection for Unsupervised Cross-Modal Hashing Retrieval
+# CAGAN
+CLIP-based Adaptive Graph Attention Network for unsupervised cross-modal hashing retrieval.
 
 More details will be updated soon.
 
@@ -13,3 +13,4 @@ Please, install the following packages:
 - h5py
 
 ### Citation
+
