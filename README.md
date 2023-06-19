@@ -1,5 +1,5 @@
 # AMTS
-Hierarchical Knowledge Distillation Hashing via Adaptive Multi-Teacher Selection for Unsupervised Cross-Modal Retrieval
+
 
 More details will be updated soon.
 
